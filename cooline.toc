@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: cooline
+## Title: cooline |cff6e36d6-Ironsights-
 ## SavedVariablesPerCharacter: cooline_settings
 
 settings.lua
