@@ -322,7 +322,7 @@ function cooline.VARIABLES_LOADED()
 	
 	cooline.detect_cooldowns()
 
-	DEFAULT_CHAT_FRAME:AddMessage('|c00ffff00' .. COOLINE_LOADED_MESSAGE .. '|r');
+	--DEFAULT_CHAT_FRAME:AddMessage('|c00ffff00' .. COOLINE_LOADED_MESSAGE .. '|r');
 end
 
 function cooline.BAG_UPDATE_COOLDOWN()
