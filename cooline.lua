@@ -4,7 +4,7 @@ cooline:SetScript('OnEvent', function()
 end)
 cooline:RegisterEvent('VARIABLES_LOADED')
 
-cooline_settings = { x = 0, y = -240 }
+cooline_settings = { x = 0, y = -250 }
 
 local frame_pool = {}
 local cooldowns = {}
